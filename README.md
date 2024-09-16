@@ -55,7 +55,14 @@ I'm a **Software Engineer** with 4+ years of experience in **Backend**, **Blockc
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhiTranViet&layout=compact&theme=radical)
 
----
+## 🔥 GitHub Streaks
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=PhiTranViet&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+## 🏆 GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=PhiTranViet&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
 
 ## 🚀 Featured Projects
 
