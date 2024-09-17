@@ -65,9 +65,7 @@ I'm a **Software Engineer** with 4+ years of experience in **Backend**, **Blockc
 
 ## 🌟 Achievements
 
-- **Outstanding Project Award**: Led the successful launch of the **Verdant Collection** project, increasing team productivity by 20%.
-- Successfully managed and delivered **VerseVault**, an innovative NFT marketplace.
-- Optimized reporting procedures, reducing query execution times significantly.
+
   
 ---
 
