@@ -44,19 +44,23 @@ I'm a **Software Engineer** with 4+ years of experience in **Backend**, **Blockc
 ## 🛠️ Skills & Technologies
 
 ### Programming Languages
-- **JavaScript/Node.js**, **Solidity**, **C#/.NET**
+- **JavaScript/Node.js**, **Solidity**, **C#/.NET**, **Golang**, **Rust**
 
 ### Frameworks & Tools
-- **NestJS**, **ASP.NET Core**, **Vue.js**, **Hardhat**
+- **NestJS**, **ASP.NET Core**, **Vue.js**, **Hardhat**, **Gin**, **Rocket**
 
 ### Databases
 - **MySQL**, **PostgreSQL**, **MongoDB**
 
 ### DevOps & Cloud
-- **AWS** (Lambda, EC2, S3, RDS, ECS), **Docker**, **Jenkins**, **GitLab**
+- **K8S**, **AWS** (Lambda, EC2, S3, RDS, ECS), **Docker**, **Jenkins**, **GitLab**
 
 ### Message Brokers
 - **Kafka**, **RabbitMQ**
+
+### Log
+- **Elasticsearch**, **Logstash**, **Kibana**
+
 
 ### Project Management & Collaboration
 - **Agile**, **Scrum**, **Jira**
