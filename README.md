@@ -53,13 +53,13 @@ I'm a **Software Engineer** with 4+ years of experience in **Backend**, **Blockc
 - **MySQL**, **PostgreSQL**, **MongoDB**
 
 ### DevOps & Cloud
-- **K8S**, **AWS** (Lambda, EC2, S3, RDS, ECS), **Docker**, **Jenkins**, **GitLab**
+- **K8S**, **AWS** (Lambda, EC2, S3, RDS, ECS), **Google Bigquery**, **Docker**, **Jenkins**, **GitLab**
 
 ### Message Brokers
 - **Kafka**, **RabbitMQ**
 
 ### Log
-- **Elasticsearch**, **Logstash**, **Kibana**
+- **Elasticsearch**, **Logstash**, **Kibana**, **Datadog**, **Sentry**
 
 
 ### Project Management & Collaboration
