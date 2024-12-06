@@ -90,6 +90,10 @@ I'm a **Software Engineer** with 4+ years of experience in **Backend**, **Blockc
 
 ## 🚀 Featured Projects
 
+<head>
+  <meta name="google-site-verification" content="googleb1d5c1ddf995bb72.html" />
+</head>
+
 
 
 
