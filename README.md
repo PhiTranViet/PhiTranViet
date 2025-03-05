@@ -1,9 +1,15 @@
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=PhiTranViet&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+
 # Hi, I'm Phi Tran 👋
 
 🌍 **Location:** Hanoi, Vietnam  
 📧 **Email:** phitranviet99@gmail.com  
 💼 **LinkedIn:** [Phi Tran](https://linkedin.com/in/phitrantech)  
 🔗 **GitHub:** [PhiTranViet](https://github.com/PhiTranViet)
+
 
 
 #### :hammer_and_wrench: Languages and Tools :
@@ -66,6 +72,21 @@ I'm a **Software Engineer** with 4+ years of experience in **Backend**, **Blockc
 - **Agile**, **Scrum**, **Jira**
 
 ---
+
+
+📊 **Weekly development by phitrantech:**
+
+<!--START_SECTION:waka-->
+
+```txt
+TypeScript   16 hrs 14 mins  █████████████▓░░░░░░░░░░░   54.03 %
+Solidity     9 hrs 31 mins   ████████░░░░░░░░░░░░░░░░░   31.69 %
+Rust         1 hr 32 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
+JavaScript   1 hr 11 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
+Bash         40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
+```
+
+<!--END_SECTION:waka-->
 
 ## 🌟 Achievements
 
