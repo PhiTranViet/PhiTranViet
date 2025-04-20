@@ -2,15 +2,12 @@
   <img src="https://komarev.com/ghpvc/?username=PhiTranViet&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-
 # Hi, I'm Phi Tran 👋
 
 🌍 **Location:** Hanoi, Vietnam  
 📧 **Email:** phitranviet99@gmail.com  
 💼 **LinkedIn:** [Phi Tran](https://linkedin.com/in/phitrantech)  
 🔗 **GitHub:** [PhiTranViet](https://github.com/PhiTranViet)
-
-
 
 #### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -31,7 +28,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-
 
 ---
 
@@ -67,17 +63,14 @@ I'm a **Software Engineer** with 4+ years of experience in **Backend**, **Blockc
 ### Log
 - **Elasticsearch**, **Logstash**, **Kibana**, **Datadog**, **Sentry**
 
-
 ### Project Management & Collaboration
 - **Agile**, **Scrum**, **Jira**
 
 ---
 
-
 📊 **Weekly development by phitrantech:**
 
 <!--START_SECTION:waka-->
-
 ```txt
 TypeScript   16 hrs 14 mins  █████████████▓░░░░░░░░░░░   54.03 %
 Solidity     9 hrs 31 mins   ████████░░░░░░░░░░░░░░░░░   31.69 %
@@ -85,13 +78,10 @@ Rust         1 hr 32 mins    █▒░░░░░░░░░░░░░░░
 JavaScript   1 hr 11 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
 Bash         40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
 ```
-
 <!--END_SECTION:waka-->
 
 ## 🌟 Achievements
 
-
-  
 ---
 
 ## 📈 GitHub Stats
@@ -108,15 +98,11 @@ Bash         40 mins         ▓░░░░░░░░░░░░░░░░
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=PhiTranViet&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-
 ## 🚀 Featured Projects
 
 <head>
   <meta name="google-site-verification" content="googleb1d5c1ddf995bb72.html" />
 </head>
-
-
-
 
 ## 📫 Contact Me
 
@@ -125,3 +111,6 @@ Feel free to reach out for collaboration, freelance projects, or just to connect
 📧 Email: phitranviet99@gmail.com  
 💼 LinkedIn: [Phi Tran](https://linkedin.com/in/phitrantech)  
 🔗 GitHub: [PhiTranViet](https://github.com/PhiTranViet)
+
+---
+Last updated: 2025-04-20 09:57:58
