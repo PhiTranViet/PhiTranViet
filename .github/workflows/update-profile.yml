@@ -1,0 +1,33 @@
+name: Update Profile
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs at 00:00 UTC daily
+  workflow_dispatch:      # Allows manual trigger
+
+jobs:
+  update-profile:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          ref: main
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Update README
+        run: |
+          # Get current date
+          echo "Last updated: $(date +'%Y-%m-%d %H:%M:%S')" > last-update.txt
+          
+          # Update profile views badge
+          curl -s "https://komarev.com/ghpvc/?username=${{ github.repository_owner }}&label=Profile%20views&color=0e75b6&style=flat" > profile-views.svg
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git commit -m "Update profile stats" || exit 0
+          git push 
