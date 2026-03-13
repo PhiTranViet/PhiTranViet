@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=PhiTranViet&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=philliptran1402&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 # Hi, I'm Phi Tran 👋
@@ -86,17 +86,17 @@ Bash         40 mins         ▓░░░░░░░░░░░░░░░░
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PhiTranViet&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=philliptran1402&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhiTranViet&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=philliptran1402&layout=compact&theme=radical)
 
 ## 🔥 GitHub Streaks
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=PhiTranViet&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=philliptran1402&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=PhiTranViet&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+![trophy](https://github-profile-trophy.vercel.app/?username=philliptran1402&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ## 🚀 Featured Projects
 
@@ -113,4 +113,4 @@ Feel free to reach out for collaboration, freelance projects, or just to connect
 🔗 GitHub: [PhiTranViet](https://github.com/PhiTranViet)
 
 ---
-Last updated: 2026-03-12 02:48:16
+Last updated: 2026-03-13 02:46:01
